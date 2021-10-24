@@ -1,1 +1,1 @@
-# sir3.py
+print("hello world")
